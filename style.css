@@ -1,0 +1,12 @@
+.webpage {
+  font-family:"Times New Roman";
+  color:black;
+}
+.hello {
+  font-family:"Arial";
+  color:red;
+}
+
+#background {
+background-color:lightblue;
+}
