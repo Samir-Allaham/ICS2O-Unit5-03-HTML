@@ -1,12 +1,13 @@
 .webpage {
-  font-family:"Times New Roman";
-  color:black;
+  font-family: "Times New Roman", serif;
+  color: black;
 }
+
 .hello {
-  font-family:"Arial";
-  color:red;
+  font-family: "Arial", serif;
+  color: red;
 }
 
 #background {
-background-color:lightblue;
+  background-color: lightblue;
 }
